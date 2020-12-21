@@ -1,19 +1,19 @@
-## About this project
+# About this project
 * Simple Web API that manages financial expenses
 * This API is consumed in [here](https://github.com/MinJiKim123/mk-aspnet-APIClient.git)
 * This API is not available for public use at the moment. 
 
-### Data (AWS DynamoDB)
+## Data (AWS DynamoDB)
 ![image](https://user-images.githubusercontent.com/61156520/102808708-c1286880-438e-11eb-8f60-cd2f5658375b.png)
 
-### API
+## API
 * GET /api
 * POST /api
 * GET /api/{expId}
 * DELETE /api/{expId}
 * PUT /api/{expId}
 
-### Publish API
+## Publish API
 * Elastic Beanstalk **_(Deleted)_**
 
 ![image](https://user-images.githubusercontent.com/61156520/102808749-d00f1b00-438e-11eb-969a-7f1bf086c9d1.png)
@@ -26,7 +26,7 @@
 
 ![image](https://user-images.githubusercontent.com/61156520/102808867-08aef480-438f-11eb-8590-9c56852450a2.png)
 
-### Technology Used
+## Technology Used
 * ASP.NET
 * AutoMapper
 * Repository Pattern
