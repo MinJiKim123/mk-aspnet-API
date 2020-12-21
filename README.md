@@ -16,7 +16,7 @@
 * PUT /api/{expId}
 
 ### Publish API
-* Elastic Beanstalk
+* Elastic Beanstalk (Deleted)
 
 ![image](https://user-images.githubusercontent.com/61156520/102808749-d00f1b00-438e-11eb-969a-7f1bf086c9d1.png)
 
