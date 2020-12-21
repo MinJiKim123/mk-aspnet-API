@@ -2,7 +2,7 @@
 
 ## About this project
 * Simple Web API that manages financial expenses
-* This API is consumed in here
+* This API is consumed in [here](https://github.com/MinJiKim123/mk-aspnet-APIClient.git)
 * This API is not available for public use at the moment. 
 
 ### Data (AWS DynamoDB)
