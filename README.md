@@ -1,5 +1,3 @@
-# mk-aspnet-API
-
 ## About this project
 * Simple Web API that manages financial expenses
 * This API is consumed in [here](https://github.com/MinJiKim123/mk-aspnet-APIClient.git)
